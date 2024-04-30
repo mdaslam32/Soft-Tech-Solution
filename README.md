@@ -1,3 +1,3 @@
 # Soft-Tech-Solution
 
-To Run The File: index.html
+Visit The Page: https://mdaslam32.github.io/Soft-Tech-Solution/
